@@ -1,7 +1,7 @@
 # 🧬 Rosalind Problem Solving
 Welcome to my repository of solutions for the [Rosalind](http://rosalind.info/) bioinformatics platform. This project serves as a log of my journey through algorithmic biology.
 
-You can view my Rosalind profile and progress here: [mahoon2 on Rosalind](https://www.google.com/search?q=http://rosalind.info/users/mahoon2)
+You can view my Rosalind profile and progress here: [mahoon2 on Rosalind](http://rosalind.info/users/mahoon2)
 
 ## 🐍 Phase 0: [Python Village](https://rosalind.info/problems/list-view/?location=python-village)
 Goal: Familiarize with the Python environment. This introductory track covers the fundamentals of Python syntax, including variables, strings, and loops, laying the groundwork for more complex tasks.
